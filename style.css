@@ -198,6 +198,15 @@ main{
 }
 
 
+@media screen and (mad-width: 1024px {
+
+.image-grid {
+    --num-cols: 2;
+    --row-hieght: 200px;
+   }
+}
+
+
 
 
 
