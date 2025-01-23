@@ -1,0 +1,577 @@
+<a> <img src="http://127.0.0.1:5500/WalksinthePark.html#">
+</a>
+
+
+<a href="#">img src="images/huron_river_cascades.JPG" alt="rivercascades" "width=200"
+
+
+
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="Neighborhoodwalks.html">Nieghborhood Walks</a></li>
+                <li><a href="WalksinthePark.html">Walks in the park</a></li>
+            </ul>
+        </nav>
+
+
+
+
+<tr>
+<td>
+<img src=”http://placehold.it/300x300” alt=” “ border=”0” style=”display:block;”>
+</td>
+<td>
+<img src=”http://placehold.it/100x300” alt=” “ border=”0” style=”display:block;”>
+</td>
+</tr>
+
+
+
+( 
+
+#for images to get rid of lines in between each (rewatch videos in school)
+
+#CSS FOR IMAGES
+
+#div-aligncolumn1 {
+  float:left;
+  width:0%;
+  display:block:inline-block
+}
+
+#CODE FOR IMAGES USING <DIV
+
+<div id="align-column1">
+
+
+)
+
+
+
+#divb
+  margin-top:32px;
+  top:0;
+  right:0
+  position:static;
+  padding-bottom: 10px;
+  font-size: 35px;
+
+  #container 1 styling
+
+                      <style>
+                        
+                        img {
+                            
+                            float:left;
+                        
+                        }
+
+                    </style>
+
+
+
+#hyperlink for huron river starter text for me
+<a href="images/huron_river_cascades.JPG">Huron River WaterTrail</a>
+
+
+
+
+
+All nav links
+
+A.
+
+#nav-a ul li {
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  text align: left;
+  list-style-type: none;
+  position:absolute;
+  margin-top:18px;
+  top:15;
+
+
+B.
+
+#nav-b ul li {
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  text-align: center;
+  list-style-type: none;
+
+
+C.
+
+#nav-c ul li {
+  padding-bottom: 10px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  text-align: right;
+  list-style-type: none;
+  margin-top:38px;
+  position:absolute;
+  top:-10;
+  right:0;
+
+maybe use this for c
+
+align-self: center;
+
+
+
+### alll css before edit 
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #e6e6e6;
+  font-family: Arial, sans-serif;
+  font-size: 30px;
+
+}
+
+head {
+
+  background-color: lime;
+  
+}
+
+
+h3 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 30px ;
+  font-weight: bold;
+  background-color: #fff685;
+   }
+
+
+h1 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: blue;
+  font-size: 30px;
+  font-weight:bold;
+  background-color: #fff685
+
+  
+}
+
+  
+p {
+  text-indent: none;
+  padding-bottom: 10px;
+  font-size: 22px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+
+}
+
+#nav-a ul li {
+  font-size: 35px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  text align: left;
+  list-style-type: none;
+  position:absolute;
+  margin-top:18px;
+  top:15;
+  
+
+}
+
+#nav-b ul li {
+  font-size: 35px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  text-align: center;
+  list-style-type: none;
+}
+
+#nav-c ul li {
+  padding-bottom: 10px;
+  font-size: 35px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  text-align: right;
+  list-style-type: none;
+  margin-top:38px;
+  position:absolute;
+  top:-10;
+  right:0;
+}
+            
+
+footer {
+  background-color: #fbe3e8;
+  padding-bottom: 10px;
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  color: black
+
+}
+
+main{
+
+    background-color: #d0bdf4;
+  
+}
+
+#div-aligncolumn1 {
+  float:left;
+  width:0%;
+  display:block:inline-block
+}
+
+#container1 ul li {
+
+
+    list-style-type:none;
+
+    
+    
+}
+
+#container2 ul li {
+
+  list-style-type:none;
+
+}
+
+#huronpic1 ul li {
+
+  list-style-type:none;
+
+}
+
+div {
+
+}
+
+
+
+C
+margin-top:38px;
+position:absolute;
+  top:-10;
+  right:0;
+
+
+
+##  EVERYTHING DONE NEW fix
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #e6e6e6;
+  font-family: Arial, sans-serif;
+  font-size: 30px;
+
+}
+
+head {
+
+  background-color: lime;
+  
+}
+
+
+h3 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 30px ;
+  font-weight: bold;
+  background-color: #fff685;
+   }
+
+
+h1 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: blue;
+  font-size: 30px;
+  font-weight:bold;
+  background-color: #fff685
+
+  
+}
+
+  
+p {
+  text-indent: none;
+  padding-bottom: 10px;
+  font-size: 22px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+
+}
+
+#div-a ul li {
+  font-size: 35px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  display:inline-block;
+  text-align: left;
+  width: 80%;
+  
+
+}
+
+#div-b ul li {
+  font-size: 35px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  text-align: right;
+  width: 600px;
+  
+}
+
+#div-c ul li {
+  font-size: 35px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  display: inline-block;
+  text-align: right;
+  width: 200%;
+  
+
+}
+            
+
+footer {
+  background-color: #fbe3e8;
+  padding-bottom: 10px;
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  color: black
+
+}
+
+main{
+
+    background-color: #d0bdf4;
+  
+}
+
+#div-aligncolumn1 {
+  float:left;
+  width:0%;
+  display:block:inline-block
+}
+
+#container1 ul li {
+
+
+    list-style-type:none;
+
+    
+    
+}
+
+#container2 ul li {
+
+  list-style-type:none;
+
+}
+
+#huronpic1 ul li {
+
+  list-style-type:none;
+
+}
+
+div {
+
+}
+
+######newest improved css
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #e6e6e6;
+  font-family: Arial, sans-serif;
+  font-size: 30px;
+
+}
+
+head {
+
+  background-color: lime;
+  
+}
+
+
+h3 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 30px ;
+  font-weight: bold;
+  background-color: #fff685;
+   }
+
+
+h1 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: blue;
+  font-size: 30px;
+  font-weight:bold;
+  background-color: #fff685
+
+  
+}
+
+  
+p {
+  text-indent: none;
+  padding-bottom: 10px;
+  font-size: 22px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+
+}
+
+#div-a ul li {
+  font-size: 35px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  text-align: left;
+  width: 80%;
+  padding-right: 500px;
+  padding-top: 200px;
+  
+
+}
+
+#div-b ul li {
+  font-size: 35px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  display: flex;
+  text-align: right;
+  width: 600px;
+  padding: 20px;
+  padding-top: 200px;
+  
+}
+
+#div-c ul li {
+  font-size: 35px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  display: flex;
+  text-align: right;
+  width: 200%;
+  padding: 20px;
+  padding-top: 200px;
+  
+
+}
+            
+
+footer {
+  background-color: #fbe3e8;
+  padding-bottom: 10px;
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  color: black
+
+}
+
+main{
+
+    background-color: #d0bdf4;
+  
+}
+
+#div-aligncolumn1 {
+  float:left;
+  width:0%;
+  display:block:inline-block
+}
+
+#container1 ul li {
+
+
+    list-style-type:none;
+
+    
+    
+}
+
+#container2 ul li {
+
+  list-style-type:none;
+
+}
+
+#huronpic1 ul li {
+
+  list-style-type:none;
+
+}
+
+div {
+
+}
+
+
+###changing postion of bacon in gulpark (heres old code in case of loss)
+
+    <div id="huronpic1">
+        <ul>
+            <li>
+                            
+        <a href="#"><img src="Images/BaconGallupPark.jpg" alt="A Bend in the Road 2" width="200">
+        </a> 
+        </ul>
+            </li>
+    </div>
+
+
+#### TOOK AWAY PADDDING OF THE div-a div-b and div-C
+
+  padding-top: -150px;
+
+
+###### old container 2
+
+  list-style-type:none;
+  width: 800px;
+  display:inline-block;
+  background-color:#fff685;
+
+
+
+old div a div b and div c background color 
+
+  background-color: #C0C0C0;
+
+
+
+
+
+
+
+
+
+

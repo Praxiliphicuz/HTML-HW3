@@ -1,0 +1,40 @@
+#div-a ul li {
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none; 
+  background-color: #e6e6e6;
+  padding-left: 500px;
+
+}
+
+#div-b ul li {
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  display: flex;
+  text-align: right;
+  background-color: #e6e6e6;
+  padding-left: 110px;
+  
+}
+
+#div-c ul li {
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  display: inline;
+  text-align: right;
+  background-color: #e6e6e6;
+  margin-right: 0;
+  padding-left: 80%;
+}
+
+
+
+
+
+##container 1
+float: both;

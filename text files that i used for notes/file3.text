@@ -1,0 +1,158 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #e6e6e6;
+}
+
+main {
+  display: inline-block;
+  background-color: #C0C0C0;
+}
+
+
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 30px;
+  background-color: #e6e6e6;
+
+}
+
+head {
+
+  background-color: lime;
+  
+}
+
+
+h3 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 30px ;
+  font-weight: bold;
+  background-color: #fff685;
+   }
+
+
+h1 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: #0047AB;
+  font-size: 30px;
+  font-weight:bold;
+  background-color: #C0C0C0;
+  display: inline;
+  margin-left: 40%;
+  
+}
+
+  
+p {
+  text-indent: none;
+  padding-bottom: 10px;
+  font-size: 22px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  background-color: #fff685;
+  display: inlin-block;
+  margin-right: 0%;
+
+}
+
+#div-a ul li {
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  text-align: right;
+  width: 80%;
+  padding-right: 500px;
+  background-color: #e6e6e6;
+
+}
+
+#div-b ul li {
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  display: flex;
+  text-align: right;
+  width: 600px;
+  padding: 20px;
+  background-color: #e6e6e6;
+  
+}
+
+#div-c ul li {
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  display: inline;
+  text-align: right;
+  background-color: #e6e6e6;
+  margin-right: 0;
+}
+
+
+  
+footer {
+  margin-left: 30%;
+  display: inline;
+  background-color: #fbe3e8;
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  color: black
+}
+
+main{
+
+    background-color: #d0bdf4;
+  
+}
+
+#div-aligncolumn1 {
+  float:left;
+  width:0%;
+  display:block:inline-block
+}
+
+#container1 ul li {
+
+
+    list-style-type:none;
+    float: both;
+    background-color:#fff685;
+    grid-template-columns: ;
+    
+}
+
+#container2 ul li {
+
+  list-style-type:none;
+  float: both;
+  background-color:#fff685;
+
+}
+
+#huronpic1 ul li {
+
+  position:fixed;
+  top: 0;
+  right:-1440;
+  width: 1600px;
+  list-style-type:none;
+  background-image: url(../images/images/BaconGallupPark.jpg");
+
+
+}
+
+
+
+
+
+
+
+

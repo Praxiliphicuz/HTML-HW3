@@ -1,0 +1,143 @@
+#container2 ul li {
+
+  list-style-type: none;
+  background-color: #fff685;
+  border: 2px solid black;
+  padding-left: 30px;
+  display: block;
+  margin-left: 190px;
+  margin-right: 2100px;
+  width: 50%;
+  display: grid;
+  grid-template-columns: 40% 40% 40%;
+
+}
+
+
+
+            
+        <a href="#"><img src="Images/huron_river_cascades.JPG" alt="Huron River Cascades" width="40%"></a>
+        <a href="#"><img src="Images/bacon_in_the_woods.png" alt="Bacon the dog in the woods" width="40%"></a>
+        <a href="#"><img src="Images/downed_tree.png" alt="downed tree" width="40%"></a>
+        <a href="#"><img src="Images/hollow_tree.png" alt="hollow tree" width="40%"></a>
+        <a href="#"><img src="Images/lake_view.JPG" alt="lake view" width="40%"></a>
+        <a href="#"><img src="Images/mist_over_huron_river.JPG" alt="mist over Huron River" width="40%"></a>
+        <a href="#"><img src="Images/munising.jpg" alt="munising" width="40%"></a>
+        <a href="#"><img src="Images/reflected_tree.JPG" alt="relfected tree" width="40%"></a>
+        <a href="#"><img src="Images/bacon_near_the_fort.png" alt="Bacon near fort" width="40%"></a>
+        <a href="#"><img src="Images/fort_in_woods.png" alt="fort in Woods" width="40%"></a>
+
+
+
+
+
+        <html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Walks in the Park </title>
+    <link rel="stylesheet" href="style.css">
+
+
+        <main>
+
+            <a href="index.html">Skip to Main Content</a>
+
+        </main>
+
+
+
+</head>
+<body>
+
+
+    <div id="huronpic1">
+        <ul>
+            <li>
+                            
+        <a href="#"><img src="Images/BaconGallupPark.jpg" alt="A Bend in the Road 2" width="200">
+        </a> 
+        </ul>
+            </li>
+    </div>
+
+
+
+    <header>
+
+
+        <style>
+            div {
+                
+                display: inline-block;
+            }
+        </style>
+
+        <div id="div-a">
+            <ul>
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+            </ul>
+        </div>
+                
+
+        <div id="div-b">
+            <ul>    
+                <li>
+                    <a href="Neighborhoodwalks.html">Neighborhood Walks</a>
+                </li>
+            </ul>
+        </div>
+
+        <div id="div-c">
+            <ul>
+                <li>
+                    <a href="WalksinthePark.html">Walks in the Park</a>
+                </li>
+            </ul>
+        </div>
+
+    </header>
+
+
+    <h1> Walks in the Park</h1>
+
+
+    <section>
+
+
+        <div class="image-grid">
+            <ul>
+                <li>
+
+  
+            
+        <img src="Images/huron_river_cascades.JPG" alt="Huron River Cascades"></a>
+        <img src="Images/bacon_in_the_woods.png" alt="Bacon the dog in the woods"></a>
+        <img src="Images/downed_tree.png" alt="downed tree"></a>
+        <img src="Images/hollow_tree.png" alt="hollow tree"></a>
+        <img src="Images/lake_view.JPG" alt="lake view"></a>
+        <img src="Images/mist_over_huron_river.JPG" alt="mist over Huron River"></a>
+        <img src="Images/munising.jpg" alt="munising" width="40%"></a>
+        <img src="Images/reflected_tree.JPG" alt="relfected tree"></a>
+        <img src="Images/bacon_near_the_fort.png" alt="Bacon near fort"></a>
+        <img src="Images/fort_in_woods.png" alt="fort in Woods"></a>
+        
+            </ul>
+                </li>
+
+        </div>
+
+
+    </section>
+
+
+    
+</body>
+</html>
+
+
+<footer>
+    This webpage was created for Homework in the class <a href="https://www.coursera.org/specializations/web-design">Web Design for Everybody</a>.
+</footer>

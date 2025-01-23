@@ -1,0 +1,117 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neighborhood Walks Test</title>
+    <link rel="stylesheet" href="style.css">
+
+
+        <main>
+
+            <a href="WalksinthePark.html">Skip to Main Content</a>
+
+        </main>
+
+
+
+
+</head>
+<body>
+
+
+    <div id="huronpic1">
+        <ul>
+            <li>
+                            
+        <a href="#"><img src="Images/BaconGallupPark.jpg" alt="A Bend in the Road 2" width="200">
+        </a> 
+        </ul>
+            </li>
+    </div>
+       
+
+
+    <header>
+
+    
+        <style>
+            div {
+                
+                display: inline-block;
+            }
+        </style>
+
+
+        <div id="div-a">
+            <ul>
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+            </ul>
+        </div>
+                
+
+        <div id="div-b">
+            <ul>    
+                <li>
+                    <a href="Neighborhoodwalks.html">Neighborhood Walks</a>
+                </li>
+            </ul>
+        </div>
+
+
+        <div id="div-c">
+            <ul>
+                <li>
+                    <a href="WalksinthePark.html">Walks in the Park</a>
+                </li>
+            </ul>
+        </div>
+
+        
+        
+        
+        <h1>Neighborhood walks</h1>
+        <!-- <p> This Page is about neighborhood walks in Ann Arbor Michigan</p> !-->
+
+      
+
+    </header>
+        <section>
+
+            
+        <div id="container1">
+            <ul>
+                <li>
+     
+
+            <a href="#"><img src="Images/NeighborhoodWalkImages/bend_in_the_road.png" alt="A Bend in the Road 2" width="40%"></a>
+            <a href="#"><img src="Images/NeighborhoodWalkImages/blooming_trees.png" alt="Blooming Trees" width="40%"></a>
+            <a href="#"><img src="Images/NeighborhoodWalkImages/falling_petals.png" alt="Falling Petals" width="40%"></a>
+            <a href="#"><img src="Images/NeighborhoodWalkImages/hanging_plants.png" alt="Hanging Plants" width="40%"></a>
+            <a href="#"><img src="Images/NeighborhoodWalkImages/pink_blossoms.png" alt="Pink Blossoms" width="40%"></a>
+            <a href="#"><img src="Images/NeighborhoodWalkImages/potted_plants.png" alt="Potted Plants" width="40%"></a>
+            <a href="#"><img src="Images/NeighborhoodWalkImages/red_maple.png" alt="Red Maple" width="40%"></a>
+            <a href="#"><img src="Images/NeighborhoodWalkImages/tulips.png" alt="Tulips" width="40%"></a>
+            <a href="#"><img src="Images/NeighborhoodWalkImages/white_buds_on_tree.png" alt="White Buds on a Tree" width="40%"></a>
+        
+            </ul>
+                </li>
+
+            </div>
+
+
+
+        </section>
+
+
+    
+
+
+
+<footer>
+    This webpage was created for Homework in the class <a href="https://www.coursera.org/specializations/web-design">Web Design for Everybody</a>.
+</footer>
+
+</body>
+</html>

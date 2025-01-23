@@ -1,0 +1,795 @@
+##### css
+
+
+
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #e6e6e6;
+}
+
+main {
+  display: inline-block;
+}
+
+
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 30px;
+  background-color: #e6e6e6;
+
+}
+
+head {
+
+  background-color: lime;
+  
+}
+
+
+h3 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 30px ;
+  font-weight: bold;
+  background-color: #fff685;
+   }
+
+
+h1 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: #0047AB;
+  font-size: 30px;
+  font-weight:bold;
+  background-color: #e6e6e6;
+
+  
+}
+
+  
+p {
+  text-indent: none;
+  padding-bottom: 10px;
+  font-size: 22px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+
+}
+
+#div-a ul li {
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  text-align: left;
+  width: 80%;
+  padding-right: 500px;
+  background-color: #e6e6e6;
+
+}
+
+#div-b ul li {
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  display: flex;
+  text-align: right;
+  width: 600px;
+  padding: 20px;
+  background-color: #e6e6e6;
+  
+}
+
+#div-c ul li {
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  display: flex;
+  text-align: right;
+  width: 200%;
+  padding: 20px;
+  background-color: #e6e6e6;
+}
+
+
+  
+footer {
+  margin-left: 30%;
+  display: inline;
+  background-color: #fbe3e8;
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  color: black
+}
+
+main{
+
+    background-color: #d0bdf4;
+  
+}
+
+#div-aligncolumn1 {
+  float:left;
+  width:0%;
+  display:block:inline-block
+}
+
+#container1 ul li {
+
+
+    list-style-type:none;
+    float: both;
+    background-color:#fff685;
+    grid-template-columns: ;
+    
+}
+
+#container2 ul li {
+
+  list-style-type:none;
+  float: both;
+  background-color:#fff685;
+
+}
+
+#huronpic1 ul li {
+
+  list-style-type:none;
+  position: relative;
+  right: -1600px;
+  max-width: 1950px;
+  max-height: 140px;
+  display: flex;
+
+}
+
+div {
+
+}
+
+
+
+
+
+
+html index
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="style.css">
+    
+    <main>
+
+
+            <a href="Skip-to-Main-Content">Skip to Main Content</a>
+
+
+    </main>
+
+
+    <style>
+
+        img {
+            width:10%;
+            height: auto;
+        }
+
+    </style>
+</head>
+<body>
+
+
+    <div id="huronpic1">
+        <ul>
+            <li>
+                            
+        <a href="#"><img src="Images/BaconGallupPark.jpg" alt="A Bend in the Road 2" width="200">
+        </a> 
+        </ul>
+            </li>
+    </div>
+
+
+    <header>
+    
+        <style>
+            div {
+                
+                display: inline-block;
+            }
+        </style>
+    
+        <div id="div-a">
+            <ul>
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+            </ul>
+        </div>
+                
+        <div id="div-b">
+            <ul>    
+                <li>
+                    <a href="Neighborhoodwalks.html">Neighborhood Walks</a>
+                </li>
+            </ul>
+        </div>
+
+        <div id="div-c">
+            <ul>
+                <li>
+                    <a href="WalksinthePark.html">Walks in the Park</a>
+                </li>
+            </ul>
+        </div>
+        
+        
+        
+
+    </header>
+        <section>
+                <!-- No section for picture because there is only 1 picture on this page unlike page 2 and 3-->
+        </section>
+                
+
+                    <!-- <li><a href="images/huron_river_cascades.JPG"> </a></li> !--> 
+                    
+
+
+        <h1>Spring Time in Michigan</h1>
+        <p>Spring time in Ann Arbo is a beautiful time. Even though it can be chilly at times, it's nice to walk my dog bacon. This site includes some pictures I have taken on these walks.</p>
+             
+
+        <p>Sometimes we walk around the neighborhood, other times we make it to the woods. Ann Arbor also has some beautiful lakes and rivers including the <a href="images/huron_river_cascades.JPG">Huron River WaterTrail</a> and the Argo park cascades.</p>
+
+</body>
+</html>
+
+            <footer>
+                This webpage was created for Homework in the class <a href="https://www.coursera.org/specializations/web-design">Web Design for Everybody</a>.
+            </footer>
+
+
+
+html Neighborhoodwalks
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neighborhood Walks Test</title>
+    <link rel="stylesheet" href="style.css">
+
+
+        <main>
+
+            <a href="Skip-to-Main-Content">Skip to Main Content</a>
+
+        </main>
+
+
+
+    <style>
+
+        img {
+            width:10%;
+            height: auto;
+        }
+
+    </style>
+</head>
+<body>
+
+
+    <div id="huronpic1">
+        <ul>
+            <li>
+                            
+        <a href="#"><img src="Images/BaconGallupPark.jpg" alt="A Bend in the Road 2" width="200">
+        </a> 
+        </ul>
+            </li>
+    </div>
+       
+
+
+    <header>
+
+    
+        <style>
+            div {
+                
+                display: inline-block;
+            }
+        </style>
+
+
+        <div id="div-a">
+            <ul>
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+            </ul>
+        </div>
+                
+
+        <div id="div-b">
+            <ul>    
+                <li>
+                    <a href="Neighborhoodwalks.html">Neighborhood Walks</a>
+                </li>
+            </ul>
+        </div>
+
+
+        <div id="div-c">
+            <ul>
+                <li>
+                    <a href="WalksinthePark.html">Walks in the Park</a>
+                </li>
+            </ul>
+        </div>
+
+        
+        
+        
+        <h1> Neighborhood walks</h1>
+        <!-- <p> This Page is about neighborhood walks in Ann Arbor Michigan</p> !-->
+
+      
+
+    </header>
+        <section>
+
+            
+        <div id="container1">
+            <ul>
+                <li>
+     
+
+            <a href="#"><img src="Images/NeighborhoodWalkImages/bend_in_the_road.png" alt="A Bend in the Road 2" width="200"></a>
+            <a href="#"><img src="Images/NeighborhoodWalkImages/blooming_trees.png" alt="Blooming Trees" width="200"></a>
+            <a href="#"><img src="Images/NeighborhoodWalkImages/falling_petals.png" alt="Falling Petals" width="200"></a>
+            <a href="#"><img src="Images/NeighborhoodWalkImages/hanging_plants.png" alt="Hanging Plants" width="200"></a>
+            <a href="#"><img src="Images/NeighborhoodWalkImages/pink_blossoms.png" alt="Pink Blossoms" width="200"></a>
+            <a href="#"><img src="Images/NeighborhoodWalkImages/potted_plants.png" alt="Potted Plants" width="200"></a>
+            <a href="#"><img src="Images/NeighborhoodWalkImages/red_maple.png" alt="Red Maple" width="200"></a>
+            <a href="#"><img src="Images/NeighborhoodWalkImages/tulips.png" alt="Tulips" width="200"></a>
+            <a href="#"><img src="Images/NeighborhoodWalkImages/white_buds_on_tree.png" alt="White Buds on a Tree" width="200"></a>
+        
+            </ul>
+                </li>
+
+       </div>
+
+
+
+        </section>
+
+
+    
+
+
+
+<footer>
+    This webpage was created for Homework in the class <a href="https://www.coursera.org/specializations/web-design">Web Design for Everybody</a>.
+</footer>
+
+</body>
+</html>
+
+
+
+##walks in teh park
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Walks in the Park </title>
+    <link rel="stylesheet" href="style.css">
+
+
+        <main>
+
+            <a href="Skip-to-Main-Content">Skip to Main Content</a>
+
+        </main>
+
+
+
+
+    <style>
+
+        img {
+            width:10%;
+            height: auto;
+        }
+
+    </style>
+
+</head>
+<body>
+
+
+    <div id="huronpic1">
+        <ul>
+            <li>
+                            
+        <a href="#"><img src="Images/BaconGallupPark.jpg" alt="A Bend in the Road 2" width="200">
+        </a> 
+        </ul>
+            </li>
+    </div>
+
+
+
+    <header>
+
+
+        <style>
+            div {
+                
+                display: inline-block;
+            }
+        </style>
+
+        <div id="div-a">
+            <ul>
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+            </ul>
+        </div>
+                
+
+        <div id="div-b">
+            <ul>    
+                <li>
+                    <a href="Neighborhoodwalks.html">Neighborhood Walks</a>
+                </li>
+            </ul>
+        </div>
+
+        <div id="div-c">
+            <ul>
+                <li>
+                    <a href="WalksinthePark.html">Walks in the Park</a>
+                </li>
+            </ul>
+        </div>
+
+    </header>
+
+
+    <h1> Walks in the Park</h1>
+
+
+    <section>
+
+
+        <div id="container2">
+            <ul>
+                <li>
+
+  
+            
+        <a href="#"><img src="Images/huron_river_cascades.JPG" alt="Huron River Cascades" width="200"></a>
+        <a href="#"><img src="Images/bacon_in_the_woods.png" alt="Bacon the dog in the woods" width="200"></a>
+        <a href="#"><img src="Images/downed_tree.png" alt="downed tree" width="200"></a>
+        <a href="#"><img src="Images/hollow_tree.png" alt="hollow tree" width="200"></a>
+        <a href="#"><img src="Images/lake_view.JPG" alt="lake view" width="200"></a>
+        <a href="#"><img src="Images/mist_over_huron_river.JPG" alt="mist over Huron River" width="200"></a>
+        <a href="#"><img src="Images/munising.jpg" alt="munising" width="200"></a>
+        <a href="#"><img src="Images/reflected_tree.JPG" alt="relfected tree" width="200"></a>
+        <a href="#"><img src="Images/bacon_near_the_fort.png" alt="Bacon near fort" width="200"></a>
+        <a href="#"><img src="Images/fort_in_woods.png" alt="fort in Woods" width="200"></a>
+        
+            </ul>
+                </li>
+
+        </div>
+
+
+    </section>
+
+
+    
+</body>
+</html>
+
+
+<footer>
+    This webpage was created for Homework in the class <a href="https://www.coursera.org/specializations/web-design">Web Design for Everybody</a>.
+</footer>
+
+
+
+###huronimage1 css
+  list-style-type:none;
+  position: relative;
+  right: -1600px;
+  max-width: 1950px;
+  max-height: 140px;
+  display: flex;
+
+
+
+  ###previous div-c code 
+
+  #div-c ul li {
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  display: flex;
+  text-align: right;
+  width: 200%;
+  padding: 20px;
+  background-color: #e6e6e6;
+}
+
+##h1
+background-color: #e6e6e6;
+
+
+div-c 
+
+#div-c ul li {
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  display: flex;
+  text-align: right;
+  background-color: #e6e6e6;
+}
+
+
+
+### css 
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #e6e6e6;
+}
+
+main {
+  display: inline-block;
+  background-color: #C0C0C0;
+}
+
+
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 30px;
+  background-color: #e6e6e6;
+
+}
+
+head {
+
+  background-color: lime;
+  
+}
+
+
+h3 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 30px ;
+  font-weight: bold;
+  background-color: #fff685;
+   }
+
+
+h1 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: #0047AB;
+  font-size: 30px;
+  font-weight:bold;
+  background-color: #C0C0C0;
+  display: inline;
+  margin-left: 40%;
+  
+}
+
+  
+p {
+  text-indent: none;
+  padding-bottom: 10px;
+  font-size: 22px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  background-color: #fff685;
+  display: inlin-block;
+  margin-right: 0%;
+
+}
+
+#div-a ul li {
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  text-align: right;
+  width: 80%;
+  padding-right: 500px;
+  background-color: #e6e6e6;
+
+}
+
+#div-b ul li {
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  display: flex;
+  text-align: right;
+  width: 600px;
+  padding: 20px;
+  background-color: #e6e6e6;
+  
+}
+
+#div-c ul li {
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  display: inline;
+  text-align: right;
+  background-color: #e6e6e6;
+  margin-right: 0;
+}
+
+
+  
+footer {
+  margin-left: 30%;
+  display: inline;
+  background-color: #fbe3e8;
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  color: black
+}
+
+main{
+
+    background-color: #d0bdf4;
+  
+}
+
+#div-aligncolumn1 {
+  float:left;
+  width:0%;
+  display:block:inline-block
+}
+
+#container1 ul li {
+
+
+    list-style-type:none;
+    float: both;
+    background-color:#fff685;
+    grid-template-columns: ;
+    
+}
+
+#container2 ul li {
+
+  list-style-type:none;
+  float: both;
+  background-color:#fff685;
+
+}
+
+#huronpic1 ul li {
+
+  position:fixed;
+  top: 0;
+  right:-1440;
+  width: 1600px;
+  list-style-type:none;
+  background-image: url(../images/images/BaconGallupPark.jpg");
+
+
+}
+
+div a
+#### font-size: 30px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  text-align: right;
+  width: 80%;
+  padding-right: 600px;
+  background-color: #e6e6e6;
+  padding-left: ;
+
+
+
+div C
+font-size: 30px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  display: flex;
+  text-align: right;
+  background-color: #e6e6e6;
+  margin-right: 0;
+
+
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  display: flex;
+  text-align: right;
+  width: 600px;
+  padding: 20px;
+  background-color: #e6e6e6;
+
+
+
+
+
+
+div B
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  display: flex;
+  text-align: right;
+  background-color: #e6e6e6;
+  padding-left: 110px;
+
+
+  div C
+
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  display: flex;
+  text-align: right;
+  background-color: #e6e6e6;
+  margin-right: 0;
+  padding-left: 80%;
+  margin-left: 750px;
+
+font-size: 30px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  display: flex;
+  text-align: right;
+  background-color: #e6e6e6;
+  margin-right: 0;
+  padding-left: 80px;
+  margin-left: 750px;
+
+
+
+  div a
+
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none; 
+  background-color: #e6e6e6;
+  padding-left: 500px;
+  

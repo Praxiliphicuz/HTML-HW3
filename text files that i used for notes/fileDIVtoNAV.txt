@@ -1,0 +1,399 @@
+        <div id="container2">
+            <ul>
+                <li>
+
+  
+            
+        <a href="#"><img src="Images/huron_river_cascades.JPG" alt="Huron River Cascades" width="200"></a>
+        <a href="#"><img src="Images/bacon_in_the_woods.png" alt="Bacon the dog in the woods" width="200"></a>
+        <a href="#"><img src="Images/downed_tree.png" alt="downed tree" width="200"></a>
+        <a href="#"><img src="Images/hollow_tree.png" alt="hollow tree" width="200"></a>
+        <a href="#"><img src="Images/lake_view.JPG" alt="lake view" width="200"></a>
+        <a href="#"><img src="Images/mist_over_huron_river.JPG" alt="mist over Huron River" width="200"></a>
+        <a href="#"><img src="Images/munising.jpg" alt="munising" width="200"></a>
+        <a href="#"><img src="Images/reflected_tree.JPG" alt="relfected tree" width="200"></a>
+        <a href="#"><img src="Images/bacon_near_the_fort.png" alt="Bacon near fort" width="200"></a>
+        <a href="#"><img src="Images/fort_in_woods.png" alt="fort in Woods" width="200"></a>
+        
+            </ul>
+                </li>
+
+        </div>
+
+
+
+
+
+        #### do the same thing for neighborhood walks file if mess up
+
+
+
+
+
+#div-a ul li {
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  background-color: #e6e6e6;
+  padding-left: 500px;
+  display: inline;
+  width: 80%
+
+}
+
+#div-b ul li {
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  display: inline;
+  text-align: right;
+  background-color: #e6e6e6;
+  padding-left: 110px;
+  width: 80%
+}
+
+#div-c ul li {
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  display: inline;
+  text-align: right;
+  background-color: #e6e6e6;
+  margin-left: 90px;
+  width: 80%;
+}
+
+
+
+
+
+h1 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: #0047AB;
+  font-size: 30px;
+  font-weight:bold;
+  background-color: #C0C0C0;
+  display: inline;
+  margin-left: 40%;
+
+
+
+
+
+  ###good ivs for now 
+
+
+  #div-a ul li {
+  margin-top: 0;
+  font-size: 28px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  background-color: #e6e6e6;
+  padding-left: 320px;
+  display: inline;
+  width: 80% 
+
+}
+
+
+
+#div-b ul li {
+  font-size: 28px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  display: inline;
+  text-align: right;
+  background-color: #e6e6e6;
+  padding-left: 110px;
+  width: 80%
+}
+
+#div-c ul li {
+  font-size: 28px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  display: inline;
+  text-align: right;
+  background-color: #e6e6e6;
+  margin-left: 90px;
+  width: 80%;
+}
+
+
+
+best huron pic as well (last used)
+
+
+#huronpic1 ul li {
+
+  
+  position:fixed;
+  top: 0;
+  right:-1440;
+  width: 1600px;
+  list-style-type:none;
+  background-image: url(../images/images/BaconGallupPark.jpg");
+
+
+}
+
+
+
+##style in between main and head in nieghborhood walks page
+    <style>
+
+        img {
+            width:10%;
+            height: auto;
+        }
+
+    </style>
+
+
+    #container1 
+
+    #container1 ul li {
+
+    list-style-type:none;
+    background-color:#fff685;
+    display: grid;
+    grid-template-columns: 40% 40%;
+    margin-top: 50px;
+    width: 60%;
+    margin-left: 500px;
+    margin-right: 100px;
+    
+}
+
+
+####NEEEDED TRIAL
+list-style-type: none;
+  background-color: #fff685;
+  border: 2px solid black;
+  padding: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+
+
+
+
+#best so faar container 1
+  list-style-type:none;
+  background-color:#fff685;
+  display: grid;
+  grid-template-columns: 40% 40%;
+  border: 2px solid black;
+  padding: 25px;
+  background-repeat: no-repeat;
+  background-size: auto;
+
+
+
+
+
+#container2 ul li {
+
+  list-style-type:none;
+  float: both;
+  background-color:#fff685;
+  display: grid;
+  grid-template-columns: 40% 40% 40%;
+  margin-top: 50px;
+  width: 100%;
+
+}
+
+
+
+
+###CSSSS before erase and make new conainers html {
+  height: 100%;
+  width: 100%;
+  background-color: #e6e6e6;
+}
+
+main {
+  display: inline-block;
+  background-color: #C0C0C0;
+}
+
+
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 30px;
+  background-color: #e6e6e6;
+
+}
+
+header {
+
+  background-color: #C9C0BB;
+  
+}
+
+
+h3 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 30px ;
+  font-weight: bold;
+  background-color: #C9C0BB;
+   }
+
+
+h1 {
+
+  text-align: center;
+  font-family: monospace;
+  color: #0047AB;
+  font-size: 50px;
+  font-weight:bold;
+  background-color: #C9C0BB;
+  display: inline-block;
+  margin-left: 30%;
+  margin-top: 80px;
+  
+}
+
+  
+p {
+  
+  text-indent: none;
+  padding-bottom: 10px;
+  font-size: 22px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  background-color: #B0BEC4;
+  display: inline-block;
+  margin-top: 0px;
+
+
+
+}
+
+#div-a ul li {
+  font-weight: bold;
+  margin-top: 0;
+  font-size: 28px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  background-color: #C9C0BB;
+  padding-left: 320px;
+  display: inline-block;
+  width: 80% 
+
+}
+
+
+
+#div-b ul li {
+  
+  font-weight: bold;
+  font-size: 28px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  display: inline-block;
+  text-align: right;
+  background-color: #C9C0BB;
+  padding-left: 110px;
+  width: 80%
+}
+
+#div-c ul li {
+  font-weight: bold;
+  font-size: 28px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  list-style-type: none;
+  display: inline-block;
+  text-align: right;
+  background-color: #C9C0BB;
+  margin-left: 90px;
+  margin-top: 80px;
+  width: 80%;
+}
+
+
+
+  
+footer {
+  margin-left: 30%;
+  display: inline;
+  background-color: #fbe3e8;
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  color: black
+}
+
+main{
+
+    background-color: #d0bdf4;
+  
+}
+
+#div-aligncolumn1 {
+  float:left;
+  width:0%;
+  display:block:inline-block
+}
+
+#container1 ul {
+
+  list-style-type: none;
+  background-color: #fff685;
+  border: 2px solid black;
+  padding-left: 130;
+  display: block;
+  margin-left: 480px;
+  margin-right: 300px;
+  width: 40%;
+  display: grid;
+  grid-template-columns: initial;
+
+
+}
+
+#container2 ul li {
+
+  list-style-type: none;
+  background-color: #fff685;
+  border: 2px solid black;
+  padding-left: 30px;
+  display: block;
+  margin-left: 480px;
+  margin-right: 300px;
+  width: 40%;
+  display: grid;
+  grid-template-columns: 40% 40% 40%;
+
+}
+
+#huronpic1 ul li {
+  margin-left: 1300px;
+  position: absolute;
+  top: 60px;
+  right:-950;
+  width: 1400px;
+  list-style-type:none;
+
+}
+
+
+
+
+
+
+
+
